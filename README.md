@@ -1,1 +1,20 @@
-Hi, I’m Felix Musyoka  I’m an Insurance Agent and Tech Enthusiast dedicated to transforming how people understand and access Motor Vehicle Insurance. My passion lies in merging insurance expertise with technology to create simple, transparent, and efficient solutions for vehicle owners.  With years of experience in the motor insurance space, I’ve seen firsthand how complex policies and slow claim processes can frustrate clients. That’s why I’ve made it my mission to simplify insurance through digital education, automation, and customer-focused tools. I believe every driver deserves to understand their coverage, get fair rates, and access support with ease.  💼 What I Do:  Help clients find the best motor insurance cover tailored to their needs and budget.  Educate drivers on how to protect their vehicles, manage risks, and handle claims effectively.  Develop small tech-based solutions to streamline insurance processes, from quoting to policy tracking.   🚗 Current Projects:  Motor Insurance Resource Hub – A growing online library with guides, templates, and tips to help drivers and agents make informed insurance decisions.  Car Hire & Leasing Management Concepts – Exploring efficient systems to simplify car rental operations and ensure compliance with insurance requirements.  Learning Python for Automation – Building skills to create digital tools that enhance efficiency in the insurance industry, such as automated reminders and policy trackers.   Beyond my professional work, I’m passionate about using technology to educate and empower vehicle owners across Kenya. Whether it’s through social media awareness, digital tools, or client consultations, my focus is to make insurance simpler, smarter, and more accessible.  📫 Contact Me:  Email: musyokafelix735@gmail.com  LinkedIn: Felix Musyoka  Phone: 0768091044   ⭐ My goal is to bridge the gap between Insurance and Technology — helping drivers stay protected, informed, and confident on every journey# Felix-Musyoka-
+# 👋 Hi, I’m Felix Musyoka  
+
+I’m an **Insurance Agent and Tech Enthusiast** passionate about simplifying **Motor Vehicle Insurance** through digital tools and education.  
+
+💼 **What I Do:**  
+- Help clients get the best motor insurance cover at affordable rates  
+- Educate drivers on vehicle protection, claims, and risk management  
+- Build small tech solutions that make insurance processes easier  
+
+🚗 **Current Projects:**  
+- Motor Insurance Resource Hub (Guides & Templates)  
+- Car Hire & Leasing Management Concepts  
+- Learning Python to automate insurance workflows  
+
+📫 **Contact Me:**  
+- Email: musyokafelix735@gmail.com  
+- LinkedIn: [Felix Musyoka](https://www.linkedin.com/in/felixmusyoka)  
+- Phone: 0768091044  
+
+⭐ *My goal is to bridge Insurance & Technology to empower more vehicle owners across Kenya and beyond.*
