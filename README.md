@@ -1,5 +1,4 @@
 
-![Felix Musyoka - Tech Driven Motor Insurance Expert](https://YOUR-BANNER-LINK-HERE)
 
 <h1 align="center">👋 Hi, I’m Felix Musyoka</h1>
 <h3 align="center">🚘 Tech-Driven Motor Insurance Expert | Simplifying Insurance Through Digital Tools</h3>
