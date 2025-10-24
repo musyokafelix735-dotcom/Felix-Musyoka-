@@ -1,4 +1,4 @@
-https://github.com/musyokafelix735-dotcom/Felix-Musyoka-<!-- Banner -->
+
 ![Felix Musyoka - Tech Driven Motor Insurance Expert](https://YOUR-BANNER-LINK-HERE)
 
 <h1 align="center">👋 Hi, I’m Felix Musyoka</h1>
